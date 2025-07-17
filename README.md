@@ -39,37 +39,6 @@ Edu Track is a modern, responsive landing page designed to showcase a platform f
   * **Google Fonts**: `Inter` and `Lato` for modern and readable typography.
   * **Custom Font**: `Aeonik Pro` for a unique brand feel.
 
------
-
-## Setup and Installation
-
-To get a local copy up and running, follow these simple steps.
-
-1.  **Clone the repository (if applicable):**
-
-    ```bash
-    git clone [repository-url]
-    ```
-
-    (Replace `[repository-url]` with your actual repository URL if hosted on Git.)
-
-2.  **Navigate to the project directory:**
-
-    ```bash
-    cd edu-track-landing-page
-    ```
-
-3.  **Ensure you have the necessary assets:**
-
-      * Create an `img` folder in the root directory.
-      * Place all image assets (e.g., `edu-track-main-logo.png`, `Vector.png`, `sec-dashboard-img.png`, etc.) inside the `img` folder as referenced in the HTML.
-      * Create a `fonts` folder in the root directory.
-      * Place `AeonikProTrial.woff2` and `AeonikProTrial.woff` inside the `fonts` folder.
-
-4.  **Open `index.html`:**
-    Simply open the `index.html` file in your web browser. All styles and scripts are linked locally.
-
------
 
 ## Project Structure
 
