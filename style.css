@@ -1116,8 +1116,8 @@ h1 span img {
     height: auto;
   }
   .footer-col {
-    min-width: unset; /* Remove min-width */
-    width: 100%; /* Take full width */
+    /* min-width: unset; Remove min-width */
+    /* width: 100%; Take full width */
     margin-bottom: 30px;
   }
 
@@ -1425,8 +1425,24 @@ h1 span img {
 
   .footer-container {
     gap: 20px;
+    flex-direction: row;
+    align-items: unset;
+    text-align: left;
   }
 
+  .footer-col.brand {
+    text-align: center;
+  }
+
+  .footer-third-col {
+    width: 100%;
+  }
+
+  .footer-col ul {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
   
 }
 
